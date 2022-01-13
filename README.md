@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: raflydevelop@gmail.com or DM via insta @rafly_amrie
+- 📫 How to reach me: raflydevelop@gmail.com or DM via insta https://www.instagram.com/rafly_amrie/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
