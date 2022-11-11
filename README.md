@@ -2,14 +2,14 @@
 
 <!-- **rafly-amrie/rafly-amrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Kotlin
 - 🌱 I’m currently learning Kotlin 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: raflydevelop@gmail.com or DM via insta https://www.instagram.com/rafly_amrie/
+- 📫 How to reach me: raflyyusrizalamrie@gmail.com or DM via insta https://www.instagram.com/rafly_amrie/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
