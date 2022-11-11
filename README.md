@@ -4,12 +4,14 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Kotlin
-- 🌱 I’m currently learning Kotlin 
+- 👋 Hi, I’m @rafly-amrie
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Open Source
+- 📫 How to reach me: raflyyusrizalamrie@gmail.com or DM via insta https://www.instagram.com/rafly_amrie/
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: raflyyusrizalamrie@gmail.com or DM via insta https://www.instagram.com/rafly_amrie/
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
